@@ -1,0 +1,42 @@
+AHRNET Inference INFO: Using 1 GPUs
+AHRNET Inference INFO: Inference: Loading from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Number of Overall learnable parameters: 31709924
+AHRNET Inference INFO: Loading state dict from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Run inference
+AHRNET Inference INFO: The inference completed successfully. Finalizing run...
+AHRNET Inference INFO: Using 1 GPUs
+AHRNET Inference INFO: Inference: Loading from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Number of Overall learnable parameters: 31184928
+AHRNET Inference INFO: Loading state dict from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Run inference
+AHRNET Inference INFO: The inference completed successfully. Finalizing run...
+AHRNET Inference INFO: Using 1 GPUs
+AHRNET Inference INFO: Inference: Loading from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Number of Overall learnable parameters: 31184928
+AHRNET Inference INFO: Loading state dict from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Run inference
+AHRNET Inference INFO: The inference completed successfully. Finalizing run...
+AHRNET Inference INFO: Using 1 GPUs
+AHRNET Inference INFO: Inference: Loading from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Number of Overall learnable parameters: 31184928
+AHRNET Inference INFO: Loading state dict from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Run inference
+AHRNET Inference INFO: The inference completed successfully. Finalizing run...
+AHRNET Inference INFO: Using 1 GPUs
+AHRNET Inference INFO: Inference: Loading from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Number of Overall learnable parameters: 31184928
+AHRNET Inference INFO: Loading state dict from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Run inference
+AHRNET Inference INFO: The inference completed successfully. Finalizing run...
+AHRNET Inference INFO: Using 1 GPUs
+AHRNET Inference INFO: Inference: Loading from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Number of Overall learnable parameters: 31184928
+AHRNET Inference INFO: Loading state dict from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Run inference
+AHRNET Inference INFO: The inference completed successfully. Finalizing run...
+AHRNET Inference INFO: Using 1 GPUs
+AHRNET Inference INFO: Inference: Loading from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Number of Overall learnable parameters: 31184928
+AHRNET Inference INFO: Loading state dict from checkpoint /home/oem/hand_shen/xin/xisncat/AHRNET_heatmap/out_save_epoch_train/checkpoint-70-569800/state_dict.bin
+AHRNET Inference INFO: Run inference
+AHRNET Inference INFO: The inference completed successfully. Finalizing run...
