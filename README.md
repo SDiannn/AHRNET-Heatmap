@@ -31,20 +31,6 @@ The checkpoint path ./out_save_epoch_train
 
 ---
 
-## Experiments
-We provide guidelines to train and evaluate our model on  FreiHAND. 
-
-```bash
-python  ./src/tools/run_point_jointmesh.py
-       
-```
-
-```bash
-python  ./src/tools/run_point_jointmesh.py --resume_checkpoint --run_evaluation='True'
-       
-```
----
-
 ## Acknowledgments
 
 Our repository is modified and adapted from these amazing repositories. If you find their work useful for your research, please also consider citing them:
